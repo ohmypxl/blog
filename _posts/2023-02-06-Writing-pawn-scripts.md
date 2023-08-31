@@ -1,6 +1,6 @@
 ---
 title: Writing Pawn Scripts
-author: aiura
+author: ohh
 categories: [pawn, development, tutorial]
 tags: [pawn tutorial, new stuff]
 ---

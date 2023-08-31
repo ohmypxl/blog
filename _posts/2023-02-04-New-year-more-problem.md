@@ -1,6 +1,6 @@
 ---
 title: New Year? More Problem!
-author: aiura
+author: ohh
 categories: [life]
 tags: [new year update]
 ---

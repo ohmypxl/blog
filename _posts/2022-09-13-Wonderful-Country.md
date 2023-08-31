@@ -1,6 +1,6 @@
 ---
 title: Wonderful Country
-author: aiura
+author: ohh
 categories: [misc]
 tags: [ranting]
 ---

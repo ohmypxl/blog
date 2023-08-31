@@ -1,6 +1,6 @@
 ---
 title: New Blogging Template
-author: aiura
+author: ohh
 categories: [website, development]
 tags: [new stuff]
 pin: true

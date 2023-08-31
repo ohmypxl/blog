@@ -1,6 +1,6 @@
 ---
 title: Hello World, First blog post
-author: aiura
+author: ohh
 categories: [misc]
 tags: [hello world!]
 ---

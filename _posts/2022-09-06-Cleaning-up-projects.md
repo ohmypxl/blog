@@ -1,6 +1,6 @@
 ---
 title: Cleaning up projects
-author: aiura
+author: ohh
 categories: [development]
 tags: [projects]
 ---
